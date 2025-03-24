@@ -10,5 +10,5 @@ This project detects a user's emotion using facial recognition and recommends ta
 - User-friendly interface.
 
 ## Installation
-- pip install stramlit
+- pip install streamlit
 - streamlit run yourscript.py
