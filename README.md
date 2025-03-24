@@ -10,7 +10,5 @@ This project detects a user's emotion using facial recognition and recommends ta
 - User-friendly interface.
 
 ## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/emotion_recommendation_system.git
->>>>>>> 7ad231a (initial)
+- pip install stramlit
+- streamlit run yourscript.py
