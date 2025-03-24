@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # TASK-OPTIMIZER
 =======
 # Emotion-Based Recommendation System
 
-This project detects a user's emotion using facial recognition and recommends tasks based on their mood.
+This project detects a user's emotion using facial recognition and recommends tasks based on their mood .
 
 ## Features
 - Real-time emotion detection.
