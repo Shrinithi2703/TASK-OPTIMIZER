@@ -1,6 +1,6 @@
 # TASK-OPTIMIZER
 =======
-# Emotion-Based Recommendation System
+# Emotion-Based Task Recommendation System
 
 This project detects a user's emotion using facial recognition and recommends tasks based on their mood .
 
